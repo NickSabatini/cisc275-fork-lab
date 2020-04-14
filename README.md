@@ -6,8 +6,9 @@
 
 Vineeth Gutta, 1st year PhD CISC student, favorite programming language is Java
 
-John Doe, Senior ELEG student, favorite programming language is Bash
-
-Elaine Example, Junior MEEG student, favorite programming language is Excel Macros
-
 Nick Sabatini, 3rd year undergraduate CISC student, favorite programming language is Java
+
+For Lab7:
+  Group 10-4
+  Nick Sabatini, Addison Kuykendall, Sohan Gadiraju, Jonni Tran
+  Project is a garden design tool for the Arden Village.
